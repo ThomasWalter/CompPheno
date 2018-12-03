@@ -1,8 +1,0 @@
-1	Interphase	#4daf4a
-3	Prometaphase	#ff7f00
-4	Metaphase	#f781bf
-5	Anaphase	#984ea3
-9	Polylobed	#657bd4
-8	Apoptosis	#e41a1c
-2	MAP	#ffff33
-11	Elongated	#996633
