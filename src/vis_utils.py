@@ -1,5 +1,3 @@
-#vis_utils.py
-
 import numpy as np
 import matplotlib.pyplot as plt
 from src.data_utils import read_class_definition
